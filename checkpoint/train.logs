@@ -1,0 +1,16 @@
+[2023-01-14 12:04:48,652] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] workers: 0
+[2023-01-14 12:04:48,652] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] devices_id: 0
+[2023-01-14 12:04:48,653] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] test_initial: False
+[2023-01-14 12:04:48,653] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] base_lr: 0.0001
+[2023-01-14 12:04:48,653] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] weight_decay: 1e-06
+[2023-01-14 12:04:48,654] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] lr_patience: 40
+[2023-01-14 12:04:48,654] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] start_epoch: 1
+[2023-01-14 12:04:48,655] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] end_epoch: 500
+[2023-01-14 12:04:48,655] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] snapshot: ./checkpoint/snapshot/
+[2023-01-14 12:04:48,655] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] log_file: ./checkpoint/train.logs
+[2023-01-14 12:04:48,655] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] tensorboard: ./checkpoint/tensorboard
+[2023-01-14 12:04:48,656] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] resume: 
+[2023-01-14 12:04:48,656] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] dataroot: ./data/train_data/list.txt
+[2023-01-14 12:04:48,656] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] val_dataroot: ./data/test_data/list.txt
+[2023-01-14 12:04:48,656] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] train_batchsize: 256
+[2023-01-14 12:04:48,656] [p24160] [D:\PFLD_98_AICS-master\train.py:31] [INFO] val_batchsize: 256
